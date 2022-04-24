@@ -17,3 +17,7 @@ The window size and the episode count can be changed accordingly.
 
 Problems:
 There are much more buy actions than sell actions and the exact reason for this is not known to me.
+
+A much better model is used in the following file:
+https://colab.research.google.com/drive/10owEaEzkUFDw5TZkYRLyJTKd0M33BsFd?usp=sharing
+
